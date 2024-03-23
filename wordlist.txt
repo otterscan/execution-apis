@@ -64,3 +64,9 @@ https
 forkchoiceupdatedresponsev
 exitv
 depositreceiptv
+ots
+EOA
+txs
+ABI
+DeFi
+vitalik
