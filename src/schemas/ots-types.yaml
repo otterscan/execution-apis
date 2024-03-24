@@ -429,3 +429,6 @@ TraceEntry:
     input:
       title: calldata of the operation
       $ref: '#/components/schemas/bytes'
+    output:
+      title: return data of the operation
+      $ref: '#/components/schemas/bytes'
