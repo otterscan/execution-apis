@@ -17,7 +17,8 @@ jobs:
       - name: Use Node.js 15
         uses: actions/setup-node@v1
         with:
-          node-version: '15'
+          node-version-file: ".nvmrc"
+          cache: "npm"
       - run: npm ci
       - run: npm run build
       - name: setup git config
@@ -38,7 +39,8 @@ jobs:
       - name: Use Node.js 15
         uses: actions/setup-node@v1
         with:
-          node-version: '15'
+          node-version-file: ".nvmrc"
+          cache: "npm"
       - run: npm ci
       - run: npm run build
       - run: npm run generate-clients
