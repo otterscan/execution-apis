@@ -1,3 +1,19 @@
+# Otterscan API Specification
+
+## Introduction
+
+This document contains the Otterscan API specification. It follows the same format of the [standard JSON-RPC APIs for execution clients](https://github.com/ethereum/execution-apis/).
+
+In fact, it is defined as a fork of that repository because we reuse some of the base types and publishing scripts.
+
+For instance, everything commited in this repository is automatically published from the `main` branch to https://otterscan.github.io/execution-apis/api-documentation/.
+
+For comparison, the standard Ethereum APIs are published on: https://ethereum.github.io/execution-apis/api-documentation/.
+
+> 💡 The rest of this document contains the original Execution API specs.
+
+---
+
 # Execution API Specification
 
 ## JSON-RPC
