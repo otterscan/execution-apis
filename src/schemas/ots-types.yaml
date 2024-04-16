@@ -431,4 +431,5 @@ TraceEntry:
       $ref: '#/components/schemas/bytes'
     output:
       title: return data of the operation
+      description: this value is optional for backward compatibility with old implementations that don't support it
       $ref: '#/components/schemas/bytes'
