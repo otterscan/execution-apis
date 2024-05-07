@@ -27,7 +27,7 @@
   "devDependencies": {
     "@graphql-inspector/core": "~3.3.0",
     "@open-rpc/generator": "1.22.3",
-    "@open-rpc/schema-utils-js": "1.16.2",
+    "@open-rpc/schema-utils-js": "2.0.0",
     "gatsby": "~5.13.3",
     "gh-pages": "~6.1.1",
     "graphql": "~16.8.1",
