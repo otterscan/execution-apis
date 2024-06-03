@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ethereum/execution-apis#readme",
   "devDependencies": {
-    "@graphql-inspector/core": "~3.3.0",
+    "@graphql-inspector/core": "~6.1.0",
     "@open-rpc/generator": "1.22.3",
     "@open-rpc/schema-utils-js": "1.16.2",
     "gatsby": "~5.13.3",
